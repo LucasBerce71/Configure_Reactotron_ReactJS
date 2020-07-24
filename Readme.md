@@ -2,7 +2,7 @@
 
 1 - Init with Reactotron in project React JS (Using Redux):
 	
-	- run yarn add reactotron-react-js reactotron-redux
+	yarn add reactotron-react-js reactotron-redux
   
  2 - Create folder config
  
