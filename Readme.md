@@ -1,5 +1,5 @@
 # Configure_Reactotron_ReactJS_Poject
-================================================================================================================================================
+
 1 - Init with Reactotron in project React JS (Using Redux):
 	
 	- run yarn add reactotron-react-js reactotron-redux
